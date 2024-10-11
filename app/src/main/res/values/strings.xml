@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BtCaNhan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="first">First</string>
+    <string name="second">second</string>
+    <string name="third">First</string>
+    <string name="image_description">Description of the image</string>
+    <string name="profileLeMinhToan">Profile của Lê Minh Toàn</string>
+    <string name="name">Lê Minh Toàn</string>
+    <string name="date">10/02/2004</string>
+    <string name="sex">Nam</string>
+    <string name="phoneNumber">012345678</string>
+    <string name="age">20</string>
+    <string name="email">LeMinhToan@gmail.com</string>
+    <string name="lb_date">Ngày sinh:</string>
+    <string name="lb_sex">Giới tính:</string>
+    <string name="lb_phoneNumber">Số điện thoại</string>
+    <string name="lb_age">Tuổi</string>
+    <string name="lb_email">Email:</string>
+    <string name="pass">Password</string>
+    <string name="end">Kết thúc</string>
+    <string name="call">Đang gọi...</string>
+    <string name="LoiBaiHat">Một con vịt xòe ra hai cái cánh
+Nó kêu rằng các các các, cạc cạc cạc
+Gặp hồ nước nó bì bà bì bõm
+Lúc lên bờ vẫy cái cánh cho khô
+</string>
+    <string name="motconvit">Một con vịt</string>
+</resources>
